@@ -8,7 +8,6 @@ class Solution {
             if(nums[i] == 0){
                 n++ ; 
             }
-
             while(n > 1){
                 if(nums[j] == 0){
                     n-- ; 
@@ -16,9 +15,8 @@ class Solution {
                 j++ ; 
             }
             max = Math.max(max, i - j);
-
-        }
-         
+        }   
     return max ; 
+    
     }
 }
