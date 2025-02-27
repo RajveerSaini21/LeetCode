@@ -27,7 +27,7 @@ class Solution {
         if(rh == -1) return -1 ;
 
         if(Math.abs(lh - rh) > 1) return -1 ; 
-        return 1+Math.max(lh , rh) ; 
+        return 1 + Math.max(lh , rh) ; 
 
     }
 }
