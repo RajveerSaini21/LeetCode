@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/RajveerSaini21/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/RajveerSaini21/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajveerSaini21/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/RajveerSaini21/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajveerSaini21/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/RajveerSaini21/LeetCode/tree/master/0048-rotate-image) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/RajveerSaini21/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
