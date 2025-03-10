@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/RajveerSaini21/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajveerSaini21/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajveerSaini21/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1791-richest-customer-wealth](https://github.com/RajveerSaini21/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RajveerSaini21/LeetCode/tree/master/0048-rotate-image) |
+| [1791-richest-customer-wealth](https://github.com/RajveerSaini21/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Stack
 |  |
 | ------- |
