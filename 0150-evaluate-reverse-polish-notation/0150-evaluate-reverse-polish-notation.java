@@ -7,10 +7,8 @@ class Solution {
             String token = s[i]; 
 
             if(token.equals("+") || token.equals("-") || token.equals("*") || token.equals("/")){
-                int b = stack.peek() ; 
-                stack.pop(); 
-                int a = stack.peek() ;
-                stack.pop();  
+                int b = stack.pop() ; 
+                int a = stack.pop() ; 
 
                 switch(token){
                     case "+":
