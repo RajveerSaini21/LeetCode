@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajveerSaini21/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajveerSaini21/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/RajveerSaini21/LeetCode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RajveerSaini21/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajveerSaini21/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RajveerSaini21/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RajveerSaini21/LeetCode/tree/master/0169-majority-element) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/RajveerSaini21/LeetCode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RajveerSaini21/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajveerSaini21/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RajveerSaini21/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RajveerSaini21/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajveerSaini21/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RajveerSaini21/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Tree
 |  |
 | ------- |
