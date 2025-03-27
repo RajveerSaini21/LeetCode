@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RajveerSaini21/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajveerSaini21/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/RajveerSaini21/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/RajveerSaini21/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RajveerSaini21/LeetCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajveerSaini21/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RajveerSaini21/LeetCode/tree/master/0792-binary-search) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RajveerSaini21/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajveerSaini21/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RajveerSaini21/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0735-asteroid-collision](https://github.com/RajveerSaini21/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RajveerSaini21/LeetCode/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/RajveerSaini21/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
@@ -161,5 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/RajveerSaini21/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/RajveerSaini21/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
