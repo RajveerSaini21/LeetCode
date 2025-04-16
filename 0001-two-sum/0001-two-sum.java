@@ -10,8 +10,8 @@ class Solution {
         // }
         // return new int[]{} ;
         HashMap<Integer, Integer> map = new HashMap<>();  // value -> index
-
-        for (int i = 0; i < nums.length; i++) {
+        int n = nums.length ; 
+        for (int i = 0; i < n; i++) {
             int complement = target - nums[i];
             if (map.containsKey(complement)) {
                 return new int[] { map.get(complement), i };
