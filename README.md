@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RajveerSaini21/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajveerSaini21/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RajveerSaini21/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/RajveerSaini21/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/RajveerSaini21/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RajveerSaini21/LeetCode/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/RajveerSaini21/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -198,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RajveerSaini21/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/RajveerSaini21/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/RajveerSaini21/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
