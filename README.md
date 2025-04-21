@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RajveerSaini21/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RajveerSaini21/LeetCode/tree/master/0383-ransom-note) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RajveerSaini21/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1894-merge-strings-alternately](https://github.com/RajveerSaini21/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/RajveerSaini21/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RajveerSaini21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RajveerSaini21/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/RajveerSaini21/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/RajveerSaini21/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Matrix
 |  |
 | ------- |
