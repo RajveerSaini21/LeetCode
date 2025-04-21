@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RajveerSaini21/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajveerSaini21/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RajveerSaini21/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/RajveerSaini21/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajveerSaini21/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/RajveerSaini21/LeetCode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/RajveerSaini21/LeetCode/tree/master/0605-can-place-flowers) |
@@ -239,5 +240,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/RajveerSaini21/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/RajveerSaini21/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
