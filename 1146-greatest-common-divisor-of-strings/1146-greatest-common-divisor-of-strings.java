@@ -11,7 +11,7 @@ class Solution {
         return result ; 
     }
 
-    public static int gcdLength(int size1 , int size2){
+    public int gcdLength(int size1 , int size2){
         while(size2 != 0){
             int temp = size2; 
             size2 = size1 % size2 ; 
