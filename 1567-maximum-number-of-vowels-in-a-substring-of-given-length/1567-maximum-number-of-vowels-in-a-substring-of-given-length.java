@@ -10,15 +10,17 @@ class Solution {
             }
         }
         maxCount = count ; 
+        int j = 0 ; 
 
         for(int i = k ; i < s.length() ; i++){
             if(vowels.indexOf(s.charAt(i)) != -1){
                 count++ ; 
             }
 
-            if(vowels.indexOf(s.charAt(i-k)) != -1){
+            if(vowels.indexOf(s.charAt(j)) != -1){
                 count-- ; 
             }
+            j++ ; 
 
             maxCount = Math.max(maxCount , count); 
         }
