@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RajveerSaini21/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajveerSaini21/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1791-richest-customer-wealth](https://github.com/RajveerSaini21/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/RajveerSaini21/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RajveerSaini21/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RajveerSaini21/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RajveerSaini21/LeetCode/tree/master/0383-ransom-note) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/RajveerSaini21/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/RajveerSaini21/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RajveerSaini21/LeetCode/tree/master/0242-valid-anagram) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/RajveerSaini21/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/RajveerSaini21/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/RajveerSaini21/LeetCode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/RajveerSaini21/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/RajveerSaini21/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/RajveerSaini21/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Matrix
 |  |
