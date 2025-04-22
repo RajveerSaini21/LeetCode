@@ -5,7 +5,7 @@ class Solution {
 
         for(int i = 0 ; i < gain.length ; i++){
             currH += gain[i]; 
-             maxH = Math.max(currH , maxH); 
+            maxH = Math.max(currH , maxH); 
         }
         return maxH ;
     }
