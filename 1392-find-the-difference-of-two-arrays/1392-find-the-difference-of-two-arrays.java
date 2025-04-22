@@ -26,11 +26,11 @@ class Solution {
             }
         }
 
-        List<List<Integer>> lists = new ArrayList<>(); 
-        lists.add(onlyNum1); 
-        lists.add(onlyNum2); 
+        List<List<Integer>> result = new ArrayList<>(); 
+        result.add(onlyNum1); 
+        result.add(onlyNum2); 
 
-        return lists ; 
+        return result ; 
 
     }
 }
