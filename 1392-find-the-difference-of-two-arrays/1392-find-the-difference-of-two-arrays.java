@@ -12,18 +12,23 @@ class Solution {
         }
 
 
-        Set<Integer> onlyNum1 = new HashSet<>(set1); 
-        Set<Integer> onlyNum2 = new HashSet<>(set2);
+        List<Integer> onlyNum1 = new ArrayList<>(); 
+        List<Integer> onlyNum2 = new ArrayList<>();
 
-        onlyNum1.removeAll(set2);
-        onlyNum2.removeAll(set1); 
-
-        List<Integer> list1 = new ArrayList<>(onlyNum1);
-        List<Integer> list2 = new ArrayList<>(onlyNum2);
+        for(int num : set1){
+            if(!set2.contains(num)){
+                onlyNum1.add(num); 
+            }
+        }
+        for(int num : set2){
+            if(!set1.contains(num)){
+                onlyNum2.add(num); 
+            }
+        }
 
         List<List<Integer>> lists = new ArrayList<>(); 
-        lists.add(list1); 
-        lists.add(list2); 
+        lists.add(onlyNum1); 
+        lists.add(onlyNum2); 
 
         return lists ; 
 
