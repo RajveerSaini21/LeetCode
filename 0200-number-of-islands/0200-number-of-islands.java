@@ -21,7 +21,7 @@ class Solution {
         int row = grid.length ; 
         int col = grid[0].length ; 
 
-        if(r < 0 || c < 0 || r >= row || c >= col || grid[r][c] == '0') return ; 
+        if(r < 0 || c < 0 || row <= r || col <= c || grid[r][c] == '0') return ; 
 
        grid[r][c] = '0';  
 
