@@ -17,7 +17,7 @@ class Solution {
         visited[city] = true ; 
 
         for(int j = 0 ; j < isConnected.length ; j++){
-            if(isConnected[city][j] ==1 && !visited[j]){
+            if(isConnected[city][j] == 1 && !visited[j]){
                 dsf(isConnected , visited , j); 
             }
         }
