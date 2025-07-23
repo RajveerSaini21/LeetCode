@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RajveerSaini21/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajveerSaini21/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RajveerSaini21/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/RajveerSaini21/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RajveerSaini21/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/RajveerSaini21/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RajveerSaini21/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/RajveerSaini21/LeetCode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/RajveerSaini21/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RajveerSaini21/LeetCode/tree/master/0733-flood-fill) |
 ## Linked List
 |  |
@@ -282,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RajveerSaini21/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/RajveerSaini21/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/RajveerSaini21/LeetCode/tree/master/0605-can-place-flowers) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RajveerSaini21/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RajveerSaini21/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
