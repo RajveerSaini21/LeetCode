@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/RajveerSaini21/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RajveerSaini21/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RajveerSaini21/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/RajveerSaini21/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/RajveerSaini21/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/RajveerSaini21/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/RajveerSaini21/LeetCode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/RajveerSaini21/LeetCode/tree/master/0542-01-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajveerSaini21/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/RajveerSaini21/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/RajveerSaini21/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/RajveerSaini21/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RajveerSaini21/LeetCode/tree/master/0739-daily-temperatures) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/RajveerSaini21/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/RajveerSaini21/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
