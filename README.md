@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajveerSaini21/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RajveerSaini21/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RajveerSaini21/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1036-rotting-oranges](https://github.com/RajveerSaini21/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajveerSaini21/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/RajveerSaini21/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RajveerSaini21/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RajveerSaini21/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/RajveerSaini21/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RajveerSaini21/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/RajveerSaini21/LeetCode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/RajveerSaini21/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Stack
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RajveerSaini21/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RajveerSaini21/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RajveerSaini21/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/RajveerSaini21/LeetCode/tree/master/1036-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
