@@ -13,11 +13,12 @@ class Solution {
         }
 
         if(start > n) return ; 
+    
+            temp.add(start) ; 
+            backtracking(result , temp , start+1 , n , k ); 
 
-        for(int i = start ; i <= n ; i++){
-            temp.add(i) ; 
-            backtracking(result , temp , i+1 , n , k ); 
-            temp.remove(temp.size() -1) ;           
-        }
+            temp.remove(temp.size() -1) ;
+            backtracking(result , temp , start+1 , n , k ); 
+
     }
 }
