@@ -1,7 +1,8 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> result = new ArrayList<>() ;
-        backtracking(result , new ArrayList<>() , 1 ,  n ,  k); 
+        List<Integer> curr = new ArrayList<>(); 
+        backtracking(result , curr , 1 ,  n ,  k); 
         return result ; 
     }
 
