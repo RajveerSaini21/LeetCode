@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RajveerSaini21/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/RajveerSaini21/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RajveerSaini21/LeetCode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/RajveerSaini21/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajveerSaini21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RajveerSaini21/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajveerSaini21/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RajveerSaini21/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0268-missing-number) |
 ## Memoization
 |  |
@@ -325,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/RajveerSaini21/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/RajveerSaini21/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
