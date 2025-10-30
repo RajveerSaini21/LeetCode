@@ -11,6 +11,8 @@ class Solution {
             return ; 
         }
 
+        if(start > n) return ; 
+
         for(int i = start ; i <= n ; i++){
             temp.add(i) ; 
             backtracking(result , temp , i+1 , n , k ); 
