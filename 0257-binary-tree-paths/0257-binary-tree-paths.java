@@ -22,7 +22,7 @@ class Solution {
         return result;
     }
     
-    private void dfs(TreeNode node, String path, List<String> result) {
+    void dfs(TreeNode node, String path, List<String> result) {
         if (node != null) {
             path += Integer.toString(node.val);
             if (node.left == null && node.right == null) {
