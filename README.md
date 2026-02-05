@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RajveerSaini21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RajveerSaini21/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RajveerSaini21/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/RajveerSaini21/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/RajveerSaini21/LeetCode/tree/master/0383-ransom-note) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RajveerSaini21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RajveerSaini21/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/RajveerSaini21/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RajveerSaini21/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajveerSaini21/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RajveerSaini21/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajveerSaini21/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RajveerSaini21/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RajveerSaini21/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RajveerSaini21/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/RajveerSaini21/LeetCode/tree/master/0392-is-subsequence) |
