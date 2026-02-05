@@ -7,7 +7,7 @@ class Solution {
             fast = square(square(fast)) ; 
             if(slow == 1 || fast == 1) return true ; 
         } 
-        return slow==1 ; 
+        return slow==1  ; 
     }
     public int square(int n){
         int ans = 0 ; 
