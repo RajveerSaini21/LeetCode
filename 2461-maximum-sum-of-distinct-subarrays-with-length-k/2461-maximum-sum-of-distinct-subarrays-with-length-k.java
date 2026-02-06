@@ -11,7 +11,7 @@ class Solution {
             } 
             set.add(nums[right]);
             sum += nums[right];
-            if (right - left + 1 == k) {
+            if (set.size() == k) {
                 maxSum = Math.max(maxSum, sum);    
                 set.remove(nums[left]);
                 sum -= nums[left];
