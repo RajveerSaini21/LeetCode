@@ -13,9 +13,6 @@ class Solution {
             sum += nums[right];
             if (right - left + 1 == k) {
                 maxSum = Math.max(maxSum, sum);    
-                set.remove(nums[left]);
-                sum -= nums[left];
-                left++;
             }
         }
         return maxSum;
