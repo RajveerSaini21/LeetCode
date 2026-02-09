@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RajveerSaini21/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/RajveerSaini21/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RajveerSaini21/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/RajveerSaini21/LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/RajveerSaini21/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajveerSaini21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajveerSaini21/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RajveerSaini21/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/RajveerSaini21/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RajveerSaini21/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0268-missing-number) |
