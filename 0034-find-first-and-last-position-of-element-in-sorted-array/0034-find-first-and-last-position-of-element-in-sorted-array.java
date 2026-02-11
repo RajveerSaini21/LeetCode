@@ -1,28 +1,28 @@
 class Solution {
-    public static int lowerBound(int[] arr, int n, int target) {
+    public static int[] findBounds(int[] arr, int n, int target) {
         int low = 0;
         int high = n - 1;
-        int ans = n;
+        int lower = n, upper = n;
+
+        // lower bound
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (arr[mid] >= target) {
-                ans = mid;
+                lower = mid;
                 high = mid - 1;
             } else {
                 low = mid + 1;
             }
         }
-        return ans;
-    }
 
-    public static int upperBound(int[] arr, int n, int target) {
-        int low = 0;
-        int high = n - 1;
-        int ans = n;
+        low = 0; 
+        high = n - 1;
+
+        //upper bound 
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (arr[mid] == target) {
-                ans = mid;
+                upper = mid;
                 low = mid + 1;
             } else if (arr[mid] < target) {
                 low = mid + 1;
@@ -30,12 +30,16 @@ class Solution {
                 high = mid - 1;
             }
         }
-        return ans;
+
+        return new int[]{lower, upper};
     }
+
     public int[] searchRange(int[] arr, int target) {
         int n = arr.length;
-        int lower = lowerBound(arr, n, target);
-        int upper = upperBound(arr, n, target);
+        int[] bounds = findBounds(arr, n, target);
+        int lower = bounds[0];
+        int upper = bounds[1];
+        
         if (lower == n || arr[lower] != target) {
             return new int[]{-1, -1};
         }
