@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RajveerSaini21/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajveerSaini21/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RajveerSaini21/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/RajveerSaini21/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RajveerSaini21/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/RajveerSaini21/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajveerSaini21/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajveerSaini21/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/RajveerSaini21/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/RajveerSaini21/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajveerSaini21/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RajveerSaini21/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/RajveerSaini21/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/RajveerSaini21/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/RajveerSaini21/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Interactive
 |  |
@@ -407,9 +410,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RajveerSaini21/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RajveerSaini21/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RajveerSaini21/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RajveerSaini21/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
