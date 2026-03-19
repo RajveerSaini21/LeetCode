@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RajveerSaini21/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajveerSaini21/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajveerSaini21/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/RajveerSaini21/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/RajveerSaini21/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/RajveerSaini21/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RajveerSaini21/LeetCode/tree/master/0053-maximum-subarray) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RajveerSaini21/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajveerSaini21/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/RajveerSaini21/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/RajveerSaini21/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/RajveerSaini21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RajveerSaini21/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RajveerSaini21/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/RajveerSaini21/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RajveerSaini21/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RajveerSaini21/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RajveerSaini21/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/RajveerSaini21/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/RajveerSaini21/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RajveerSaini21/LeetCode/tree/master/0078-subsets) |
