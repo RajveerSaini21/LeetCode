@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/RajveerSaini21/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RajveerSaini21/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajveerSaini21/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/RajveerSaini21/LeetCode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/RajveerSaini21/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajveerSaini21/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RajveerSaini21/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/RajveerSaini21/LeetCode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Two Pointers
 |  |
 | ------- |
@@ -441,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RajveerSaini21/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/RajveerSaini21/LeetCode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 <!---LeetCode Topics End-->
