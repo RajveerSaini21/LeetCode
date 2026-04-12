@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/RajveerSaini21/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RajveerSaini21/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajveerSaini21/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/RajveerSaini21/LeetCode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/RajveerSaini21/LeetCode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Sliding Window
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RajveerSaini21/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RajveerSaini21/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/RajveerSaini21/LeetCode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/RajveerSaini21/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajveerSaini21/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RajveerSaini21/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/RajveerSaini21/LeetCode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/RajveerSaini21/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RajveerSaini21/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajveerSaini21/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/RajveerSaini21/LeetCode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajveerSaini21/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/RajveerSaini21/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/RajveerSaini21/LeetCode/tree/master/0605-can-place-flowers) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/RajveerSaini21/LeetCode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Union Find
 |  |
 | ------- |
