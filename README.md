@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/RajveerSaini21/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RajveerSaini21/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/RajveerSaini21/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/RajveerSaini21/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajveerSaini21/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RajveerSaini21/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RajveerSaini21/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/RajveerSaini21/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/RajveerSaini21/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/RajveerSaini21/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RajveerSaini21/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajveerSaini21/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/RajveerSaini21/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Two Pointers
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RajveerSaini21/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/RajveerSaini21/LeetCode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/RajveerSaini21/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/RajveerSaini21/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Stack
 |  |
 | ------- |
