@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/RajveerSaini21/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/RajveerSaini21/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/RajveerSaini21/LeetCode/tree/master/0268-missing-number) |
+| [0365-water-and-jug-problem](https://github.com/RajveerSaini21/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RajveerSaini21/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajveerSaini21/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RajveerSaini21/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RajveerSaini21/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajveerSaini21/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RajveerSaini21/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0365-water-and-jug-problem](https://github.com/RajveerSaini21/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/RajveerSaini21/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RajveerSaini21/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RajveerSaini21/LeetCode/tree/master/0733-flood-fill) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RajveerSaini21/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/RajveerSaini21/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/RajveerSaini21/LeetCode/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/RajveerSaini21/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/RajveerSaini21/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RajveerSaini21/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RajveerSaini21/LeetCode/tree/master/0733-flood-fill) |
