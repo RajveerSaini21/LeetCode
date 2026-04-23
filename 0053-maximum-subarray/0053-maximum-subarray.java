@@ -1,8 +1,8 @@
-//Brute Force approach
+// Brute Force approach
 // class Solution {
 //     public int maxSubArray(int[] arr) {
 //         int n = arr.length;  
-//         int maxSum = 0 ; 
+//         int maxSum = Integer.MIN_VALUE ; 
 //         for(int i = 0 ; i < n; i++){
 //             int currSum = 0 ; 
 //             for(int j = i ; j < n ; j++){
